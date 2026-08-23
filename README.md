@@ -10,10 +10,16 @@ An interactive operational & clinical analytics dashboard designed for managing 
 The dashboard focuses on monitoring hospital capacity, monthly procedure volumes, percentage changes, and equipment availability to optimize decision-making and resource allocation.
 
 ### 🖼️ Screenshot
+<img width="3251" height="1829" alt="image" src="https://github.com/user-attachments/assets/941aeabd-75c3-4b01-be32-02bc2761fd2d" />
+<img width="3256" height="1840" alt="image" src="https://github.com/user-attachments/assets/84caa6b8-490f-493e-81c7-6416e9de4d9b" />
+<img width="3291" height="1830" alt="image" src="https://github.com/user-attachments/assets/a30fd32a-e6ef-4d51-80ed-b92980b7555c" />
+<img width="3669" height="1854" alt="image" src="https://github.com/user-attachments/assets/813af278-f5d0-4f23-82d8-030c4a0f4c8c" />
 
-![Dashboard Preview](image_715bd1.jpg) <!-- Replace with your actual relative image path or hosted URL -->
+ <!-- Replace with your actual relative image path or hosted URL -->
 
 ---
+### 🖼️ Video Walkthrough
+https://youtu.be/3J8WPXKTAOQ
 
 ## ✨ Key Features & Visualizations
 
@@ -68,9 +74,3 @@ The dashboard focuses on monitoring hospital capacity, monthly procedure volumes
 * **Facility Benchmark:** *El-Sukkar* and *El-Sahel* handle the highest volume of peripheral catheterizations among all managed hospitals.
 
 ---
-
-## 📁 How to Use / Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/hospital-catheterization-dashboard.git](https://github.com/your-username/hospital-catheterization-dashboard.git)
